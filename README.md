@@ -38,7 +38,7 @@ quienes no tienen experiencia planeando viajes y necesitan una guía más sencil
 Lista los tipos de usuarios (mínimo 2):
 
 1. [administrador de viaje]:Crea perfil de empresa, modifica perfil, recibe opiniones de turistas.
-Crea, modifica y elimina los tours, paga suscripcion para crear los tours, se comunica con el turista 
+modifica y elimina los tours, paga suscripcion para crear los tours, se comunica con el turista 
 
 2. [turista]:Inicia sesion como usuario y crea cuenta,Da opiniones sobre los tours,
 busca viajes, programa los tours, modifica perfil, ve informacion sobre los tours
