@@ -44,6 +44,9 @@ Crea, modifica y elimina los tours, paga suscripcion para crear los tours, se co
 busca viajes, programa los tours, modifica perfil, ve informacion sobre los tours
 paga los tours, se comunica con la empresa 
 
+3. [admin]:Gestiona usuarios, supervisa administradores de viajes, administra pagos o suscripciones,
+genera reportes, configura parametros del sistema
+
 ---
 
 ## Funcionalidades Principales
