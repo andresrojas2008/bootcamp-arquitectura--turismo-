@@ -101,5 +101,6 @@ Elegí:
 
 
 
-<img width="833" height="717" alt="Zuqara" src="https://github.com/user-attachments/assets/1360c2d6-1fa2-4e18-9ec4-78ec7ba04b07" />
+<img width="1112" height="762" alt="Tours Zuqara" src="https://github.com/user-attachments/assets/1a3c4b2f-aef6-4de6-9169-895ca8307c61" />
+
 
