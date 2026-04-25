@@ -58,6 +58,7 @@ Lista 5-7 funcionalidades clave:
 - [ ] Charla entre empresa y turista
 - [ ] Crea o contrata un tour o varios tours
 - [ ] obtiene o actualiza informacion de los tours
+- [ ] recibe opinion u opina sobre los tours
 
 ---
 
