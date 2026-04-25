@@ -99,3 +99,7 @@ Elegí:
 **Fecha**: abril 25 del 2026
 **Bootcamp**: Arquitectura de Software - SENA
 
+
+
+<img width="833" height="717" alt="Zuqara" src="https://github.com/user-attachments/assets/1360c2d6-1fa2-4e18-9ec4-78ec7ba04b07" />
+
