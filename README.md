@@ -1,5 +1,6 @@
 ## [Turismo] - Proyecto Zuqara Tours
-¿Cuales son los roles de cada integrante del proyecto?
+
+- ¿Cuales son los roles de cada integrante del proyecto?
 
 Sergio/ Líder de proyecto: encargado de coordinar al equipo tomar decisiones  técnicas, revisar que todo esté completo y actualizar el tablero, también ayuda a completar los archivos y ayudar a los desarrolladores.
 
@@ -7,7 +8,7 @@ Andres/ desarrollador backend y documentador: encargado de evidencias de comunic
 
 Daniel/Analista y desarrollador FrontEnd: Encargado de actas, historias de usuario, HTML y Diagramas de actividades. 
 
-¿Qué Problema Resuelve?
+- ¿Qué Problema Resuelve?
 
 Actualmente, la información sobre viajes suele estar dispersa en diferentes páginas web,
  redes sociales o agencias. A veces los precios no son claros,
