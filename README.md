@@ -1,4 +1,11 @@
 ## [Turismo] - Proyecto Zuqara Tours
+¿Cuales son los roles de cada integrante del proyecto?
+
+Sergio/ Líder de proyecto: encargado de coordinar al equipo tomar decisiones  técnicas, revisar que todo esté completo y actualizar el tablero, también ayuda a completar los archivos y ayudar a los desarrolladores.
+
+Andres/ desarrollador backend y documentador: encargado de evidencias de comunicación css responsive, diccionario de datos y control de cambios.
+
+Daniel/Analista y desarrollador FrontEnd: Encargado de actas, historias de usuario, HTML y Diagramas de actividades. 
 
 ¿Qué Problema Resuelve?
 
